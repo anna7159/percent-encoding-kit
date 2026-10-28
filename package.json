@@ -1,6 +1,6 @@
 {
   "name": "percent-encoding-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Decodes percent-encoded strings per RFC 3986, interpreting the resulting bytes as UTF-8.",
   "type": "module",
   "main": "src/index.js",
